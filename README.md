@@ -182,3 +182,4 @@ Now this time we will using the Google Sheet as databases retrive from the IOT T
 4) Activate, save and run accordingly
 
 ## Chapter 7: Intelligent
+We can have numbers of machine learning intelligent run continously via cloud or MCU. In today's application, majority of the data was capture and send to cloud, thus the intelligent was performed in cloud. However, some advance features and smaller application can be integrated with the TinyML concept where the inteligent can be embeded into the MCU, thus making prediction of the output after receiving the input from the environmental surroundings. Refer the following [examples](https://github.com/ismailsakdo/iot_ilkkmsb) 
