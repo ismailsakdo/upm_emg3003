@@ -1,2 +1,3 @@
-# upm_emg3003
-Environmental Monitoring System
+# UPM Bachelor Environmental Management
+## EMG3003 Environmental Monitoring System
+### IoT Journey
