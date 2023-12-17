@@ -9,7 +9,10 @@ The big data is the new paradigm where the use of data is importance in making d
 The concept of IOT can be utilized by the use of MCU, SBC and Computer. Its begin with the capability of the computer in managing numbers of operations. Then the evolution of SBC (Raspberry Pi), lead to the development of the advancement of MCU/ PLC and else.
 
 ### Dashboard
+When talking about IoT, we need to visualize our findings and making decision of the data collected before. We need comprehensive real-time dashboard. The Dashbord useful for manipulating data, integrated and mix with outher data and simulate the findings. One of the main function of the interactive dashboard will be the automatic reporting, and forensics applications
+
 ### Intelligent Environmental Monitoring
+When all data are collected at granular level, the level of monitoring become useful for generating predictable insight. The non-representative method of sampling before, become real-time or near real-time in giving the value of the environment. Advance computer modelling and cloud technology enable us to calculate complex machne learning algorithm for decision making process. From a simpler logic, the use of the real-time data together with the visualization technique and continous reporting can help for rapid environmental health risk assessment. This include the more complex element and integration namely as Environmental Monitoring, Surveillance and Analytics (EMSA).
 
 ## Chapter 2: Fundamental
 When talk about IoT, we have to understand there are embedded technology involve. This include (but not limited to) Micro-Controller (MCU). There are different type of MCU available in the market depends on its capabilities and functionalities.
