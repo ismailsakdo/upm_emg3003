@@ -12,9 +12,17 @@ The concept of IOT can be utilized by the use of MCU, SBC and Computer. Its begi
 ### Intelligent Environmental Monitoring
 
 ## Chapter 2: Fundamental
-### MCU
+When talk about IoT, we have to understand there are embedded technology involve. This include (but not limited to) Micro-Controller (MCU). There are different type of MCU available in the market depends on its capabilities and functionalities.
 
-### Sensor
+### MCU
+1) Arduino Uno
+2) Arduino WiFi
+3) Espressif (ESP8266 & ESP32)
+4) Seeeduino (ESP32)
+5) STM32
+
+### Sensor & Actuator
+There are input and output involve in IoT. The easier to understand is the function. When the monitoring take place, and the sensor + MCU used for measuring environment, the unit used mainly the input. When there are mechanism of control and display, we will involve the output.
 
 ### Software
 #### Software Step 1: IDE Setup
