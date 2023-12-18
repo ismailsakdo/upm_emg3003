@@ -65,15 +65,11 @@ Installation of Libraries
 6) Paste into the Arduino > libraries folder
 
 ##### List of Libraries:
-1) rtclib
-2) rtc by makuna
-3) MQunifiedsensor
-4) Adafruit_GFX
-5) Adafruit_SSD1306
-6) Adafruit_PM25AQI
-7) ThingSpeak
-8) WiFiManager
-9) SD card if not present link: https://github.com/espressif/arduino-esp32
+1) MQunifiedsensor [Link](https://github.com/miguel5612/MQSensorsLib)
+2) ClosedCube [HDC1080](https://github.com/closedcube/ClosedCube_HDC1080_Arduino)
+3) ThingSpeak [Mathworks](https://github.com/mathworks/thingspeak-arduino)
+4) BH1750 Light Sensor [Link](https://github.com/jancoow/BH1730-Library)
+5) SD card if not present link: https://github.com/espressif/arduino-esp32
 
 #### Software Step 3:
 1) Identify the urban environmental health analytics issues to be explore
