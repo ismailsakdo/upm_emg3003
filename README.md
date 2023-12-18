@@ -92,7 +92,7 @@ Installation of Libraries
 This chapter, you can begin to register the following account:
 1) IoT Thingspeak Cloud
 2) IFTTT for the notification
-3) 
+3) OpenWheatherMap
 
 ## Chapter 3: Creating the Unit
 In general, there are numbers of ways to connect the sensor and the MCU. This step, please follow the ideas below:
