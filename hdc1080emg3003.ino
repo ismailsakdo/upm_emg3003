@@ -8,7 +8,7 @@
 
 //Insert Library (if any)
 #include "ClosedCube_HDC1080.h"
-
+#include <Wire.h>
 //Create instances for using library
 ClosedCube_HDC1080 hdc1080;
 
