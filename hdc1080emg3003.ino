@@ -26,9 +26,9 @@ void setup() {
 void loop() {
 
   // change the values
-  float nt = hdc1080.readTemperature();
-  float nh = hdc1080.readHumidity();
-  if (isnan(nt) || isnan(nh))
+  float t = hdc1080.readTemperature();
+  float h = hdc1080.readHumidity();
+  if (isnan(t) || isnan(h))
 
   {
     Serial.println("Failed to read from HTU21 sensor!");
