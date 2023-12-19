@@ -32,13 +32,14 @@ There are input and output involve in IoT. The easier to understand is the funct
 1) Navigate arduino website: https://arduino.cc/software
 2) Download the software according to your Operating System (OS)
 3) Install the Arduino Software including the related USB Driver
-4) Copy the following link: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-5) Go to File > Preferences > URL/ Board Manager, paste the above link followed by ","
-6) Click OK
-7) Then go to Tool Menu > Board > Board Managers
-8) In the board manager, type: ESP32
-9) Click install on the ESP32 by Espressif
-10) Done Installation
+4) Copy the following link (ESP32): https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+5) Copy the following link (ESP8266): http://arduino.esp8266.com/stable/package_esp8266com_index.json
+6) Go to File > Preferences > URL/ Board Manager, paste the above link followed by ","
+7) Click OK
+8) Then go to Tool Menu > Board > Board Managers
+9) In the board manager, type: ESP32
+10) Click install on the ESP32 by Espressif
+11) Done Installation
 
 #### Software Step 2:
 Installation of Libraries
